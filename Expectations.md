@@ -1,5 +1,4 @@
-# Assignment1
-# Repository for CPS 544 Assignment 1
+# CPS 544 - Assignment1
 
 ## What you expect to get out of this course? 
 - Grow/improve my knowledge of programming languages
