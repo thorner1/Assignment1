@@ -1,0 +1,12 @@
+# Default state for all rules
+default: true
+
+MD013:
+  # Number of characters
+  line_length: -1
+
+# MD022: false
+MD033: false
+MD012: false
+MD041: false
+MD035: false
