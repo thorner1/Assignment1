@@ -5,7 +5,7 @@
 - Learn more about programming a system rather than an application
 - Use scripts and other tricks to have a machine do work for me
 - How to keep my systems safe by learning tips, tricks, and common security issues and errors
-- Gain experience to become a more efficeint IT profressional by learning more about my system and how to utilize its computing power better
+- Gain experience to become a more efficient IT professional by learning more about my system and how to utilize its computing power better
 
 ### What you are most looking forward to in the course? 
 - Learning languages I am not familiar/proficient with (Unix/Linux)
