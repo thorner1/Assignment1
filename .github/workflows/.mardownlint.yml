@@ -1,5 +1,4 @@
 # Default state for all rules
-
 name: CPS 544 Markdown Linter
 
 default: true
