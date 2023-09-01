@@ -1,5 +1,6 @@
 # Assignment 1
-### Repository for CPS 544 Assignment 1
+
+## Repository for CPS 544 Assignment 1
 
 All assignments in this class will use GitHub Classroom.  To complete this assignment please do the following:
 
